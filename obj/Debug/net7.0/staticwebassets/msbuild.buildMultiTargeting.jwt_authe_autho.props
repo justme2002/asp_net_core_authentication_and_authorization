@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jwt_authe_autho.props" />
+</Project>
